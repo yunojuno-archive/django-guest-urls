@@ -1,0 +1,4 @@
+Django==1.6.5
+django-uuidfield==0.5.0
+pytz==2014.4
+wsgiref==0.1.2
